@@ -11,3 +11,10 @@
  we find that differences in the quality of text embeddings between RoBERTa, BERT, and DistilBERT are
  insignificant. This challenges existing assumptions and highlights the need for future research to explore these
  nuances further.
+# Dataset
+Pheme Dataset
+# Fine Tunung
+Training for 3 epochs
+Max sequence length: 128
+Batch size: 16
+# Used Hugging face trainer
